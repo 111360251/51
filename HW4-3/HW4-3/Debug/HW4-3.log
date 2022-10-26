@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\program111360251\hw4\hw4-3\hw4-3\main.c(5): warning C4101: 'i': 未參考的區域變數
+c:\program111360251\hw4\hw4-3\hw4-3\main.c(5): warning C4101: 'x': 未參考的區域變數
+  HW4-3.vcxproj -> C:\program111360251\HW4\HW4-3\Debug\HW4-3.exe
